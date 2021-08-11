@@ -1,4 +1,7 @@
 ### Hi there 👋
+Im a Self-motivated Developer. Passionate, hardworking coder with penchant for developing customized interfaces that factor in unique demands 
+for accessibility, reachability and security. Organized approach to meeting multiple, concurrent deadlines. Pulls from active knowledge of 
+current technology landscape to promote best practices in web technology.
 
 <!--
 **giwangdk/giwangdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
