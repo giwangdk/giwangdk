@@ -1,9 +1,11 @@
-### Hi there 👋
-Im a Self-motivated Developer⚡. Passionate, hardworking coder with penchant for developing customized interfaces that factor in unique demands 
-for accessibility, reachability and security. Organized approach to meeting multiple, concurrent deadlines. Pulls from active knowledge of 
-current technology landscape to promote best practices in web technology.
+###                                                                               Hello, folks! 👋
+Im a Self-motivated Developer⚡. Passionate and hardworking coder. Organized approach to meeting multiple, concurrent **deadlines**. Pulls from active knowledge of 
+current technology landscape to promote best practices in **web technology**. You can see my works in here or https://giwang.netlify.app/ 🔭
 
-![image](https://user-images.githubusercontent.com/73090361/128967036-84090468-1f15-488a-8198-345fb1cdecb1.png)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwangdk&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giwangdk&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **giwangdk/giwangdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
