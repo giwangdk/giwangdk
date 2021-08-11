@@ -6,7 +6,6 @@ current technology landscape to promote best practices in **web technology**. Yo
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwangdk&show_icons=true&theme=vision-friendly-dark )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giwangdk&layout=compact&theme=vision-friendly-dark )](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 <!--
 **giwangdk/giwangdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
